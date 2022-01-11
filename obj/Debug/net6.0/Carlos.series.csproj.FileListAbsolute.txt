@@ -1,0 +1,15 @@
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\Carlos.series.exe
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\Carlos.series.deps.json
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\Carlos.series.runtimeconfig.json
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\Carlos.series.dll
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\ref\Carlos.series.dll
+C:\workspace\series\Carlos.series\bin\Debug\net6.0\Carlos.series.pdb
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.csproj.AssemblyReference.cache
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.AssemblyInfoInputs.cache
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.AssemblyInfo.cs
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.csproj.CoreCompileInputs.cache
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.dll
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\ref\Carlos.series.dll
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.pdb
+C:\workspace\series\Carlos.series\obj\Debug\net6.0\Carlos.series.genruntimeconfig.cache
